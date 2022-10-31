@@ -6,13 +6,11 @@ A background in the marketing industry coupled with strong data analysis skills 
 The active development of personal projects exposes me to understand the importance of having an iterative and hypothesis-approach to analysis. 
 I am keen to build on these skills in an exciting new role.
 
-## A Little Bit of My Education Background ##
+## 🌱 A Little Bit of My Education Background ##
 MSc Computing Science [First Class Honours] 
 
 BA Marketing [Upper Second Class Honours] 
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
 
 ## SQL ##
 
