@@ -42,6 +42,9 @@ Level: Intermediate
 |---|---|---|
 |[🌴 Study of the Time-Series Validation Schemes on the Performace of Tree-Based Models](https://github.com/nicole-yoong/Portfolio/tree/main/Study_of_the_Time-Series_Validation_Schemes_on_the_Performace_of_Tree-Based_Models)) | Machine Learning / Time-series analysis | Researching into the different time-series validation schemes on the performance of machine learning models investigating S&P 500 stock price prediction. Evaluation metrics are formed to measure the model and strategy perfomance. They include: computational efficiency based on model training time, accuracy score, f1 score to detect class imbalance, annualized Sharpe ratio.  |  
 |[🍬 Diabetes Detection Modelling](https://github.com/nicole-yoong/Portfolio/tree/main/Diabetes_Detection)  | Machine Learning |  |
+|[🍼 Breast Cancer Detection Modelling](https://github.com/nicole-yoong/Portfolio/blob/main/Breast_Cancer_Detection/Python.ipynb)  | Machine Learning |  |
+|[👶 Fetal Health Detection Modelling]()  | Machine Learning |  |
+|[📄 Natural Language Processing](https://github.com/nicole-yoong/Portfolio/tree/main/Quiz_Based_Game) | Basic Game Development |   |
 |[💠 Hypothesis Testing on Diamond](https://github.com/nicole-yoong/Portfolio/tree/main/Hypothesis_Testing) | EDA / Statistical Analysis |   |
 |[🎮 Text-Based Quiz Game Development](https://github.com/nicole-yoong/Portfolio/tree/main/Quiz_Based_Game) | Basic Game Development |   |
 
@@ -64,10 +67,10 @@ Level: Intermediate
 |💊 Covid-19 Global Overview | Exploring into the global ranking of universities based on the six indicators including academic reputation, employee reputation, citation, faculty student, int faculty and int students | [Link](https://public.tableau.com/app/profile/nicole.yoong/viz/Covid-19GlobalOverview/Dashboard1-GlobalView) | 
 
 ## 👀 Some Articles I have Written ##
+- [Data Mining in Cybersecurity](https://github.com/nicole-yoong/Portfolio/blob/main/Data%20Mining%20in%20Cybersecurity.pdf)
+- [Predicting Bitcoin with Technical and Sentiment Analysis](https://github.com/nicole-yoong/Portfolio/blob/main/Predicting%20Bitcoin%20with%20Technical%20and%20Sentiment%20Analysis.pdf)
 - [Review of Machine Learning Ensemble Method](http://nicoleyoong.com/review-of-machine-learning-ensemble-method/)
-
 - [Challenges Presented in Social Media Mining](http://nicoleyoong.com/challenges-presented-in-social-media-mining/)
-
 - [Bitcoin to Dodge Sanction? ](http://nicoleyoong.com/bitcoin-to-dogde-sanction/)
 
 ## 📫 How to Reach Me ##
