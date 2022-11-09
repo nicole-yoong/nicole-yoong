@@ -15,13 +15,14 @@ Other certificate: Hackerrank SQL Advanced Certificate
 
 ## SQL ##
 
-Level: Intermediate
-
-Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, running total, partitioned averages), CASE WHEN statements, subqueries, nested subqueries, DATETIME functions, data type conversion, text and string manipulation
+Intermediate Skills: 
+- SQL and T-SQL development skills - including stored procedures, tables, views etc.
+- Good working knowledge with complicated functions: Aggregations, Joins, CTEs, Window functions, CASE WHEN statements, subqueries, nested subqueries, DATETIME functions, data type conversion, text and string manipulation
+- SSIS / SSRS
 
 | Project Name | Description |
 |---|---|
-|[🛀 SQL Server for a Sanitary Company in Singapore](https://github.com/nicole-yoong/Portfolio/tree/main/Azure/Demo_Server_for_Sanitary_Company) | Developing and maintaning the database for a medium-sized sanitary company in Singapore |
+|[🛀 Database Development: Demo SQL Server for a Sanitary Company in Singapore](https://github.com/nicole-yoong/Portfolio/tree/main/Azure/Demo_Server_for_Sanitary_Company) | Developing and maintaning the database for a medium-sized sanitary company in Singapore |
 |[➰ Review of SQL Performance Tuning](https://github.com/nicole-yoong/Portfolio/blob/main/SQL_Performance_Tuning/Review.md)  | Review the different approaches on the computational efficiencies of the SQL queries and ways to optimize them |
 |[💵 Crypto Market Transaction Monitoring](https://github.com/nicole-yoong/Portfolio/tree/main/Crypto%20Market%20Transaction%20Monitoring)  | Detect the suspicious crypto market transactions based on different criteria |
 |[🍺 Northwind_And_Pubs](https://github.com/nicole-yoong/Portfolio/blob/main/SQL_Reporting/Northwind_And_Pubs/Data_Analysis_Report.md) | Analyze the entire customer lifecycle: acquisition, conversion, customer activity, retention and churn. |
@@ -37,7 +38,7 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 
 ## Python ##
 
-Level: Intermediate
+Intermediate Skills
 
 | Project Name | Area | Description |
 |---|---|---|
