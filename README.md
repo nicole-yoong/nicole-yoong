@@ -15,7 +15,7 @@ Other certificate: Hackerrank SQL Advanced Certificate
 
 ## SQL ##
 
-Intermediate Skills: 
+Level: Intermediate
 - SQL and T-SQL development skills - including stored procedures, tables, views etc.
 - Good working knowledge with complicated functions: Aggregations, Joins, CTEs, Window functions, CASE WHEN statements, subqueries, nested subqueries, DATETIME functions, data type conversion, text and string manipulation
 - SSIS / SSRS
@@ -35,36 +35,33 @@ Intermediate Skills:
 |[👚 Balanced Tree Clothing](https://github.com/nicole-yoong/Portfolio/blob/main/8_Week_SQL_Challenge/Balanced_Tree_Clothing_Co.md) | **Case Study #7 from 8 Week SQL Challenge** - Navigate around a product hierarchy and understand the different levels of the product structures to gain insight into the sales, transactions and product exposure|
 |[⛳ Fresh Segments](https://github.com/nicole-yoong/Portfolio/blob/main/8_Week_SQL_Challenge/Fresh_Segments.md) | **Case Study #8 from 8 Week SQL Challenge**  Analyse aggregated metrics for a client and provide insights about the customer list and their interests|
 
+## SSRS ##
+
+Level: Intermediate
+
+[**Case Study #6 from 8 Week SQL Challenge** - 🎣 Clique Bait](https://github.com/nicole-yoong/Portfolio/tree/main/SSRS/Case_Study_%236_Clique_Bait)| [**Case Study #8 from 8 Week SQL Challenge** - 👚 Balanced Tree Clothing](https://github.com/nicole-yoong/Portfolio/tree/main/SSRS/Case_Study_%237_Balanced_Tree_Clothing_Co.)
+:-------------------------:|:-------------------------:
+![Case Study #6](https://user-images.githubusercontent.com/77920592/201915785-0e78d4df-07fb-411c-8c94-83d27b2a7990.jpg) |![Case Study #7](https://user-images.githubusercontent.com/77920592/201915923-023d1287-8f37-45b6-bd80-a994ce65dc5e.jpg)
 
 ## Python ##
 
-Intermediate Skills
+Level: Intermediate
 
 | Project Name | Area | Description |
 |---|---|---|
 |[🌴 Study of the Time-Series Validation Schemes on the Performace of Tree-Based Models](https://github.com/nicole-yoong/Portfolio/tree/main/Study_of_the_Time-Series_Validation_Schemes_on_the_Performace_of_Tree-Based_Models)) | Machine Learning / Time-series analysis | Researching into the different time-series validation schemes on the performance of machine learning models investigating S&P 500 stock price prediction. Evaluation metrics are formed to measure the model and strategy perfomance. They include: computational efficiency based on model training time, accuracy score, f1 score to detect class imbalance, annualized Sharpe ratio.  |  
-|[🍬 Diabetes Detection Modelling](https://github.com/nicole-yoong/Portfolio/tree/main/Diabetes_Detection)  | Machine Learning |  |
-|[🍼 Breast Cancer Detection Modelling](https://github.com/nicole-yoong/Portfolio/blob/main/Breast_Cancer_Detection/Python.ipynb)  | Machine Learning |  |
+|[🍬 Diabetes Detection Modelling](https://github.com/nicole-yoong/Portfolio/tree/main/Diabetes_Detection)  | Machine Learning | Building classification models to predict whether the patient has been diagnosed with a particular type of diabetes, Diabetes Mellitus.  |
+|[🍼 Breast Cancer Detection Modelling](https://github.com/nicole-yoong/Portfolio/blob/main/Breast_Cancer_Detection/Python.ipynb)  | Machine Learning | Building classification models to predict whether the breast cancer tumour is benign or malignant. |
 |[💠 Hypothesis Testing on Diamond](https://github.com/nicole-yoong/Portfolio/tree/main/Hypothesis_Testing) | EDA / Statistical Analysis | Statistical analysis of diamonds by their cut, color, clarity, price, and other attributes using hypothesis testing approaches - ANOVA, Spearmann / Pearson Correlation, Chi-squared Test etc. 
 |[🎮 Text-Based Quiz Game Development](https://github.com/nicole-yoong/Portfolio/tree/main/Quiz_Based_Game) | Basic Game Development | Text-based quiz game developed using Python users have options to handle various situations as they arrive with choices taken by the user in the form of inputs. Unittest testing is performed to validate the various functions. 
-
-
-## R Statistic ##
-
-Level: Intermediate
-
-| Project Name | Description |
-|---|---|
-|[Statistical Analysis Case Studies](https://github.com/nicole-yoong/Portfolio/tree/main/Statistical_Analysis) |  |  
 
 ## Tableau ##
 
 Level: Intermediate
 
-| Project Name | Description | Link |
-|---|---|---|
-|🏫 University QR Ranking 2021 | Exploring into the total infected and death cases, and the vaccination rate in different countries | [Link](https://public.tableau.com/app/profile/nicole.yoong/viz/QSRanking2021/Dashboard1) | 
-|💊 Covid-19 Global Overview | Exploring into the global ranking of universities based on the six indicators including academic reputation, employee reputation, citation, faculty student, int faculty and int students | [Link](https://public.tableau.com/app/profile/nicole.yoong/viz/Covid-19GlobalOverview/Dashboard1-GlobalView) | 
+[🏫 University QR Ranking 2021](https://public.tableau.com/app/profile/nicole.yoong/viz/QSRanking2021/Dashboard1)| [💊 Covid-19 Global Overviews](https://public.tableau.com/app/profile/nicole.yoong/viz/Covid-19GlobalOverview/Dashboard1-GlobalView)
+:-------------------------:|:-------------------------:
+![image](https://user-images.githubusercontent.com/77920592/201917809-54d38843-543b-40f1-b54c-53cf37329a15.png) | ![image](https://user-images.githubusercontent.com/77920592/201917851-094bc534-1a73-46fd-9b50-e78a1d4f28b0.png)
 
 ## 👀 Some Articles I have Written ##
 - [Data Mining in Cybersecurity](https://github.com/nicole-yoong/Portfolio/blob/main/Data%20Mining%20in%20Cybersecurity.pdf)
