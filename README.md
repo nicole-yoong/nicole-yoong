@@ -22,7 +22,8 @@ Level: Intermediate
 
 | Project Name | Description |
 |---|---|
-|[🛀 Database Development: Demo SQL Server for a Sanitary Company in Singapore](https://github.com/nicole-yoong/Portfolio/tree/main/Azure/Demo_Server_for_Sanitary_Company) | Developing and maintaning the database for a medium-sized sanitary company in Singapore |
+|[🛀 Development of Database Application for a Sanitary Company in Singapore](https://github.com/nicole-yoong/Portfolio/tree/main/Azure/Demo_Server_for_Sanitary_Company) | Developing and maintaning the database for a medium-sized sanitary company in Singapore |
+|[🏫 Case Study - Development of Database Application for a School](https://github.com/nicole-yoong/Portfolio/tree/main/Development_of_a_Database_Application) | Produce interactive SQL queries for defining and manipulating databases and a simple application program to interact with a database server |
 |[➰ Review of SQL Performance Tuning](https://github.com/nicole-yoong/Portfolio/blob/main/SQL_Performance_Tuning/Review.md)  | Review the different approaches on the computational efficiencies of the SQL queries and ways to optimize them |
 |[💵 Crypto Market Transaction Monitoring](https://github.com/nicole-yoong/Portfolio/tree/main/Crypto%20Market%20Transaction%20Monitoring)  | Detect the suspicious crypto market transactions based on different criteria |
 |[🍺 Northwind_And_Pubs](https://github.com/nicole-yoong/Portfolio/blob/main/SQL_Reporting/Northwind_And_Pubs/Data_Analysis_Report.md) | Analyze the entire customer lifecycle: acquisition, conversion, customer activity, retention and churn. |
