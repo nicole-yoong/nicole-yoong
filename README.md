@@ -7,7 +7,7 @@ The active development of personal projects exposes me to understand the importa
 I am keen to build on these skills in an exciting new role.
 
 ## 🌱 A Little Bit of My Education Background ##
-💻 **MSc Computing Science** [First Class Honours] 
+💻 **MSc Computing Science** [First Class Honours | Prize for Best Performance in the MSc Dissertation in Computing Science] 
 
 🔭 **BA Marketing** [Upper Second Class Honours] 
 
