@@ -73,9 +73,9 @@ Level: Intermediate
 ## 👀 Some Articles I have Written ##
 - [Data Mining in Cybersecurity](https://github.com/nicole-yoong/Portfolio/blob/main/Data%20Mining%20in%20Cybersecurity.pdf)
 - [Predicting Bitcoin with Technical and Sentiment Analysis](https://github.com/nicole-yoong/Portfolio/blob/main/Predicting%20Bitcoin%20with%20Technical%20and%20Sentiment%20Analysis.pdf)
-- [Review of Machine Learning Ensemble Method](http://nicoleyoong.com/review-of-machine-learning-ensemble-method/)
-- [Challenges Presented in Social Media Mining](http://nicoleyoong.com/challenges-presented-in-social-media-mining/)
-- [Bitcoin to Dodge Sanction? ](http://nicoleyoong.com/bitcoin-to-dogde-sanction/)
+- [Review of Machine Learning Ensemble Method](https://github.com/nicole-yoong/Portfolio/blob/main/Review%20of%20Machine%20Learning%20Ensemble%20Method.pdf)
+- [Challenges Presented in Social Media Mining](https://github.com/nicole-yoong/Portfolio/blob/main/Challenges%20Presented%20in%20Social%20Media%20Mining.pdf)
+- [Bitcoin to Dodge Sanction? ](https://github.com/nicole-yoong/Portfolio/blob/main/Bitcoin%20to%20%20Dodge%20Sanction%3F%20.md)
 
 ## 📫 How to Reach Me ##
 
