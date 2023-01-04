@@ -41,14 +41,6 @@ Level: Intermediate
 |[👚 Balanced Tree Clothing](https://github.com/nicole-yoong/Portfolio/blob/main/8_Week_SQL_Challenge/Balanced_Tree_Clothing_Co.md) | **Case Study #7 from 8 Week SQL Challenge** - Navigate around a product hierarchy and understand the different levels of the product structures to gain insight into the sales, transactions and product exposure|
 |[⛳ Fresh Segments](https://github.com/nicole-yoong/Portfolio/blob/main/8_Week_SQL_Challenge/Fresh_Segments.md) | **Case Study #8 from 8 Week SQL Challenge**  Analyse aggregated metrics for a client and provide insights about the customer list and their interests|
 
-## SSRS ##
-
-Level: Intermediate
-
-[**Case Study #6 from 8 Week SQL Challenge** - 🎣 Clique Bait](https://github.com/nicole-yoong/Portfolio/tree/main/SSRS/Case_Study_%236_Clique_Bait)| [**Case Study #8 from 8 Week SQL Challenge** - 👚 Balanced Tree Clothing](https://github.com/nicole-yoong/Portfolio/tree/main/SSRS/Case_Study_%237_Balanced_Tree_Clothing_Co.)
-:-------------------------:|:-------------------------:
-![Case Study #6](https://user-images.githubusercontent.com/77920592/201915785-0e78d4df-07fb-411c-8c94-83d27b2a7990.jpg) |![Case Study #7](https://user-images.githubusercontent.com/77920592/201915923-023d1287-8f37-45b6-bd80-a994ce65dc5e.jpg)
-
 ## Python ##
 
 Level: Intermediate
@@ -62,7 +54,20 @@ Level: Intermediate
 |[🎮 Text-Based Quiz Game Development](https://github.com/nicole-yoong/Portfolio/tree/main/Quiz_Based_Game) | Basic Game Development | Text-based quiz game developed using Python users have options to handle various situations as they arrive with choices taken by the user in the form of inputs. Unittest testing is performed to validate the various functions. 
 |[🎮 Geographical Analysis of Haidilao Location](https://github.com/nicole-yoong/Portfolio/blob/main/Geographical_Analysis_of_Haidilao_location.ipynb) | Geographical analysis | A simple geographical analysis and visualization using Folium to understand to the store locations of Haidilao in China. 
 
-## Tableau ##
+## R ##
+| Project Name | Area | Description |
+|---|---|---|
+|[Rayshader - UK Population Map](https://github.com/nicole-yoong/Portfolio/tree/main/R/Rayshader/UK_Population_Map) | Visualization | Visualize the population distribution of United Kingdom using Rayshader in R.
+
+## Visualization - SSRS ##
+
+Level: Intermediate
+
+[**Case Study #6 from 8 Week SQL Challenge** - 🎣 Clique Bait](https://github.com/nicole-yoong/Portfolio/tree/main/SSRS/Case_Study_%236_Clique_Bait)| [**Case Study #8 from 8 Week SQL Challenge** - 👚 Balanced Tree Clothing](https://github.com/nicole-yoong/Portfolio/tree/main/SSRS/Case_Study_%237_Balanced_Tree_Clothing_Co.)
+:-------------------------:|:-------------------------:
+![Case Study #6](https://user-images.githubusercontent.com/77920592/201915785-0e78d4df-07fb-411c-8c94-83d27b2a7990.jpg) |![Case Study #7](https://user-images.githubusercontent.com/77920592/201915923-023d1287-8f37-45b6-bd80-a994ce65dc5e.jpg)
+
+## Visualization - Tableau ##
 
 Level: Intermediate
 
