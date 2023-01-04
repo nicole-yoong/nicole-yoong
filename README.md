@@ -54,11 +54,6 @@ Level: Intermediate
 |[🎮 Text-Based Quiz Game Development](https://github.com/nicole-yoong/Portfolio/tree/main/Quiz_Based_Game) | Basic Game Development | Text-based quiz game developed using Python users have options to handle various situations as they arrive with choices taken by the user in the form of inputs. Unittest testing is performed to validate the various functions. 
 |[🎮 Geographical Analysis of Haidilao Location](https://github.com/nicole-yoong/Portfolio/blob/main/Geographical_Analysis_of_Haidilao_location.ipynb) | Geographical analysis | A simple geographical analysis and visualization using Folium to understand to the store locations of Haidilao in China. 
 
-## R ##
-| Project Name | Area | Description |
-|---|---|---|
-|[Rayshader - UK Population Map](https://github.com/nicole-yoong/Portfolio/tree/main/R/Rayshader/UK_Population_Map) | Visualization | Visualize the population distribution of United Kingdom using Rayshader in R.
-
 ## Visualization - SSRS ##
 
 Level: Intermediate
@@ -74,6 +69,11 @@ Level: Intermediate
 [🏫 University QR Ranking 2021](https://public.tableau.com/app/profile/nicole.yoong/viz/QSRanking2021/Dashboard1)| [💊 Covid-19 Global Overviews](https://public.tableau.com/app/profile/nicole.yoong/viz/Covid-19GlobalOverview/Dashboard1-GlobalView)
 :-------------------------:|:-------------------------:
 ![image](https://user-images.githubusercontent.com/77920592/201917809-54d38843-543b-40f1-b54c-53cf37329a15.png) | ![image](https://user-images.githubusercontent.com/77920592/201917851-094bc534-1a73-46fd-9b50-e78a1d4f28b0.png)
+
+## R ##
+|[Rayshader - UK Population Map](https://github.com/nicole-yoong/Portfolio/tree/main/R/Rayshader/UK_Population_Map)| Rayshader - UK Population Map Zoom In| 
+:-------------------------:|:-------------------------:
+![uk_map](https://user-images.githubusercontent.com/77920592/210623743-d64f609d-97ad-48ab-b5e2-bda6ad0006b5.png) | ![uk_map_1](https://user-images.githubusercontent.com/77920592/210626859-9085a9a5-4618-470d-8981-260c4907c62b.png)
 
 ## 👀 Some Articles I have Written ##
 - [Data Mining in Cybersecurity](https://github.com/nicole-yoong/Portfolio/blob/main/Data%20Mining%20in%20Cybersecurity.pdf)
