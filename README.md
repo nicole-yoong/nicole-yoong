@@ -54,27 +54,13 @@ Level: Intermediate
 |[🎮 Text-Based Quiz Game Development](https://github.com/nicole-yoong/Portfolio/tree/main/Quiz_Based_Game) | Basic Game Development | Text-based quiz game developed using Python users have options to handle various situations as they arrive with choices taken by the user in the form of inputs. Unittest testing is performed to validate the various functions. 
 |[🎮 Geographical Analysis of Haidilao Location](https://github.com/nicole-yoong/Portfolio/blob/main/Geographical_Analysis_of_Haidilao_location.ipynb) | Geographical analysis | A simple geographical analysis and visualization using Folium to understand to the store locations of Haidilao in China. 
 
-## Visualization - SSRS ##
-
-Level: Intermediate
-
-[**Case Study #6 from 8 Week SQL Challenge** - 🎣 Clique Bait](https://github.com/nicole-yoong/Portfolio/tree/main/SSRS/Case_Study_%236_Clique_Bait)| [**Case Study #8 from 8 Week SQL Challenge** - 👚 Balanced Tree Clothing](https://github.com/nicole-yoong/Portfolio/tree/main/SSRS/Case_Study_%237_Balanced_Tree_Clothing_Co.)
-:-------------------------:|:-------------------------:
-![Case Study #6](https://user-images.githubusercontent.com/77920592/201915785-0e78d4df-07fb-411c-8c94-83d27b2a7990.jpg) |![Case Study #7](https://user-images.githubusercontent.com/77920592/201915923-023d1287-8f37-45b6-bd80-a994ce65dc5e.jpg)
-
-## Visualization - Tableau ##
-
-Level: Intermediate
-
-[🏫 University QR Ranking 2021](https://public.tableau.com/app/profile/nicole.yoong/viz/QSRanking2021/Dashboard1)| [💊 Covid-19 Global Overviews](https://public.tableau.com/app/profile/nicole.yoong/viz/Covid-19GlobalOverview/Dashboard1-GlobalView)
-:-------------------------:|:-------------------------:
-![image](https://user-images.githubusercontent.com/77920592/201917809-54d38843-543b-40f1-b54c-53cf37329a15.png) | ![image](https://user-images.githubusercontent.com/77920592/201917851-094bc534-1a73-46fd-9b50-e78a1d4f28b0.png)
-
-## R ##
-|[Rayshader - UK Population Map](https://github.com/nicole-yoong/Portfolio/tree/main/R/Rayshader/UK_Population_Map)| Rayshader - UK Population Map Zoom In| 
-:-------------------------:|:-------------------------:
-![uk_map](https://user-images.githubusercontent.com/77920592/210623743-d64f609d-97ad-48ab-b5e2-bda6ad0006b5.png) | ![uk_map_1](https://user-images.githubusercontent.com/77920592/210626859-9085a9a5-4618-470d-8981-260c4907c62b.png)
-
+## Visualization ##
+[Interative Viz - FIFA 2022 (PowerBI)](https://github.com/nicole-yoong/Portfolio/blob/main/PowerBI/FIFA22/ReadMe.md)| [🏫 Interative Viz - QR Ranking 2021 (Tableau)](https://public.tableau.com/app/profile/nicole.yoong/viz/QSRanking2021/Dashboard1)| [💊 Interative Viz - Covid-19 Global Overviews (Tableau)](https://public.tableau.com/app/profile/nicole.yoong/viz/Covid-19GlobalOverview/Dashboard1-GlobalView) |
+:-------------------------:|:-------------------------:|:-------------------------:
+![1](https://user-images.githubusercontent.com/77920592/211554649-f027a345-6e86-48af-85ee-624631714ab4.png) | ![2](https://user-images.githubusercontent.com/77920592/211554952-0b9ae258-79dd-4cf6-9b45-4cd47fe24e33.png)| ![3](https://user-images.githubusercontent.com/77920592/211555033-d1b23fcb-4027-4bc2-a2f4-2cbc1769908f.png) |
+[**Case Study #6 from 8 Week SQL Challenge (SSRS)** ](https://github.com/nicole-yoong/Portfolio/tree/main/SSRS/Case_Study_%236_Clique_Bait)| [**Case Study #8 from 8 Week SQL Challenge (SSRS)** ](https://github.com/nicole-yoong/Portfolio/tree/main/SSRS/Case_Study_%237_Balanced_Tree_Clothing_Co.) | [Rayshader - UK Population Map](https://github.com/nicole-yoong/Portfolio/tree/main/R/Rayshader/UK_Population_Map) |
+![4](https://user-images.githubusercontent.com/77920592/211555198-20bcda04-6deb-439f-b37a-bf45a14948f2.png) |![5](https://user-images.githubusercontent.com/77920592/211555310-9a92bac3-38ef-4bbc-aef2-eb82f6246717.png) | ![6](https://user-images.githubusercontent.com/77920592/211555341-3bfe670c-0c1f-474c-a084-e6e66317d8f6.png)
+  
 ## 👀 Some Articles I have Written ##
 - [Data Mining in Cybersecurity](https://github.com/nicole-yoong/Portfolio/blob/main/Data%20Mining%20in%20Cybersecurity.pdf)
 - [Predicting Bitcoin with Technical and Sentiment Analysis](https://github.com/nicole-yoong/Portfolio/blob/main/Predicting%20Bitcoin%20with%20Technical%20and%20Sentiment%20Analysis.pdf)
